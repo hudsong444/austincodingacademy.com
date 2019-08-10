@@ -2,58 +2,57 @@
 layout: resume #don't touch
 categories: [ hire, graduation, austin ] # don't touch
 
-fullname: Gwendolyn Hudson
-jobtitle:
+fullname: Gwen Hudson
+jobtitle: Freelance Graphic/Web Designer
 
 location: Austin, TX
-blurb: ""
+blurb: "Where do we come from? And where are we going?"
 
 # first item must be JavaScript or C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
   - Web Design
-  - Node.js
-  - React
-  - Redux
-  - Express.js
   - HTML
   - CSS
-  - Testing
-  - Heroku
-  - Git/GitHub
-  - WebPack
-  - REST APIs
+  - WordPress
+  - Adobe CC
+  - PHP
+  - jQuery
 
-github: https://github.com/your-username
-linkedin: https://www.linkedin.com/in/your-username
+github: https://github.com/hudsong444
+linkedin: https://www.linkedin.com/in/gwenhudson
 
-email:
-phone:
+email: gwenhudson.design@gmail.com
+phone: 512-297-1648
 
 workexperience:
-  - company:
-    dates: October 2014 - March 2018
-    title: Logistics Manager
+ - company: Thermo Fisher Scientific
+    dates: February 2014 - May 2018 
+    title: Project Management I
     location: Austin, TX
+    
+  - company: Life Technologies
+    dates: March 2006 - February 2014
+    title: Lead Mfg. Support Coordinator
+    location: Austin, TX
+    
+  - company: Ambion
+    dates: September 2000 - March 2006
+    title: New Product Coordinator
 
-  - company:
-    dates: June 2014 - Februrary 2016
-    title: Asbestos Inspector & Abatement Project Manager
-    location: Austin, TX
-
-  - company:
-    dates: April 2008 - May 2014
-    title: Delivery Driver
-    location: Austin, TX
 
 education:
-  - name: Austin Coding Acaademy
-    dates: June 2018 - April 2019
-    degree: Web Development
+  - name: Austin Coding Academy
+    dates: Oct 2018 - Aug 2019
+    degree: Web Design
+  - name: Austin Community College
+    dates: 2011 - 2014
+    degree: Associate of Applied Science Degree | Graphic Arts Technology Specialization
+
 
 projects:
-  - name: Smart Shop
-    desc: grocery shopping list assistant
-    url: google.com
+  - name: Venus Ramirez - small business owner
+    desc: creating a small business website for haistylist
+    url: https://venus-ramirez.com/
 
 ---
