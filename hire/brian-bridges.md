@@ -1,6 +1,6 @@
 ---
 layout: resume # don't touch
-categories: [ graduation, hire, austin ] # don't touch
+categories: [ hire, austin ] # don't touch
 
 fullname: Brian Bridges
 jobtitle: Web Developer

@@ -1,6 +1,6 @@
 ---
 layout: resume #don't touch
-categories: [ hire, graduation, austin ] #don't touch
+categories: [ hire, austin ] #don't touch
 
 fullname: Wes Garbee
 jobtitle: Full-Stack .NET Web Developer, Enterprise ISR
